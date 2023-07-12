@@ -1,0 +1,105 @@
+{
+  "numeroInscricoesNegadas": 25,
+  "inscricoesNegadas": [
+    {
+      "nomeAtleta": "Isadora Bagnall",
+      "motivo": "Atleta menor de idade"
+    },
+    {
+      "nomeAtleta": "Stanley Blackaller",
+      "motivo": "Idade do atleta é superior ao permitido"
+    },
+    {
+      "nomeAtleta": "Maddie Curle",
+      "motivo": "Idade do atleta é superior ao permitido"
+    },
+    {
+      "nomeAtleta": "Fredelia Blitz",
+      "motivo": "Atleta menor de idade"
+    },
+    {
+      "nomeAtleta": "Chadd Shadrach",
+      "motivo": "Atleta menor de idade"
+    },
+    {
+      "nomeAtleta": "Kienan Bocking",
+      "motivo": "Atleta menor de idade"
+    },
+    {
+      "nomeAtleta": "Valli Davoren",
+      "motivo": "Idade do atleta é superior ao permitido"
+    },
+    {
+      "nomeAtleta": "Noel Fallow",
+      "motivo": "Idade do atleta é superior ao permitido"
+    },
+    {
+      "nomeAtleta": "Phebe Surfleet",
+      "motivo": "Idade do atleta é superior ao permitido"
+    },
+    {
+      "nomeAtleta": "Tatum Teggin",
+      "motivo": "Idade do atleta é superior ao permitido"
+    },
+    {
+      "nomeAtleta": "Hinze Jeal",
+      "motivo": "Atleta menor de idade"
+    },
+    {
+      "nomeAtleta": "Nissa Bartram",
+      "motivo": "Idade do atleta é superior ao permitido"
+    },
+    {
+      "nomeAtleta": "Dorelle MacAllister",
+      "motivo": "Atleta menor de idade"
+    },
+    {
+      "nomeAtleta": "Wilona Glassard",
+      "motivo": "Idade do atleta é superior ao permitido"
+    },
+    {
+      "nomeAtleta": "Tybi Joost",
+      "motivo": "Idade do atleta é superior ao permitido"
+    },
+    {
+      "nomeAtleta": "Tonye Ivashchenko",
+      "motivo": "Idade do atleta é superior ao permitido"
+    },
+    {
+      "nomeAtleta": "Curtis Ure",
+      "motivo": "Idade do atleta é superior ao permitido"
+    },
+    {
+      "nomeAtleta": "Griswold Scirman",
+      "motivo": "Idade do atleta é superior ao permitido"
+    },
+    {
+      "nomeAtleta": "Jobie Philbrick",
+      "motivo": "Atleta menor de idade"
+    },
+    {
+      "nomeAtleta": "Annabel Brion",
+      "motivo": "Idade do atleta é superior ao permitido"
+    },
+    {
+      "nomeAtleta": "Carr Shawyers",
+      "motivo": "Atleta menor de idade"
+    },
+    {
+      "nomeAtleta": "Lisha Dragon",
+      "motivo": "Idade do atleta é superior ao permitido"
+    },
+    {
+      "nomeAtleta": "Markos Cosgrove",
+      "motivo": "Atleta menor de idade"
+    },
+    {
+      "nomeAtleta": "Basia Hould",
+      "motivo": "Atleta menor de idade"
+    },
+    {
+      "nomeAtleta": "Rebecca Episcopio",
+      "motivo": "Atleta menor de idade"
+    }
+  ]
+}
